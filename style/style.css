@@ -1,0 +1,7 @@
+.has-invalid  label,
+.has-invalid  .message{
+    color: #dc3545;
+}
+.has-invalid  .form-control {
+    border-color: #dc3545;
+}
